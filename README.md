@@ -11,3 +11,11 @@ Please check our [documentation](http://casino.rbcas.com/) for setup and configu
 ## License
 
 CASino is released under the [MIT License](http://www.opensource.org/licenses/MIT). See LICENSE.txt for further details.
+
+##Cách sử dụng
+
+Vui lòng đọc các hướng dẫn sử dụng về Tài Xỉu, Xóc đĩa và bài cào baccarat đưới dây để hiểu về CASino trực tuyến
+[https://kuviet.com/casino-truc-tuyen/](https://kuviet.com/casino-truc-tuyen/) 
+[https://kuviet.com/tai-xiu/](https://kuviet.com/casino-truc-tuyen/) 
+[https://kuviet.com/xoc-dia/](https://kuviet.com/casino-truc-tuyen/) 
+[https://kuviet.com/cach-choi-baccarat-de-thang/](https://kuviet.com/cach-choi-baccarat-de-thang/) 
