@@ -23,3 +23,5 @@ Vui lòng đọc các hướng dẫn sử dụng về Tài Xỉu, Xóc đĩa và
 [https://kuviet.com/xoc-dia/](https://kuviet.com/casino-truc-tuyen/) 
 
 [https://kuviet.com/cach-choi-baccarat-de-thang/](https://kuviet.com/cach-choi-baccarat-de-thang/) 
+
+https://www.pinterest.com/kuvietcasino/
